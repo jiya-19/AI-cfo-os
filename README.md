@@ -94,6 +94,5 @@ README.md      # Documentation
 - Runs in browser (no backend needed)
 - AI-like intelligent insights
 - Clean CFO-style UI
-- Real-time alerts & predictions
-
+- Real-time alerts & predictions.
 
